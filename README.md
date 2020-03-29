@@ -12,7 +12,7 @@ generic Google search will be triggered. For example:
 - Entering `r` would redirect you to [www.reddit.com](https://www.reddit.com).
 - Entering `t` would redirect you to [twitch.tv](https://www.twitch.tv).
 - Entering `cats` would search
-  [Google for "cats"](https://encrypted.google.com/search?q=cats).
+  [DuckDuckgo for "cats"].
 
 ### Searching
 
